@@ -1,0 +1,18 @@
+{
+  "name": "anuddev/test-app-sample",
+  "description": "trying how to test using  php unit testing",
+  "require": {
+    "phpunit/phpunit": "^10.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Anuddev\\TestAppSample\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "aanu1234",
+      "email": "tunsabaze01@gmail.com"
+    }
+  ]
+}
